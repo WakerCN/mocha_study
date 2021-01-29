@@ -1,0 +1,19 @@
+{
+  "name": "mocha_study",
+  "version": "1.0.0",
+  "description": "自我学习Mocha",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "waker",
+  "license": "ISC"
+}
